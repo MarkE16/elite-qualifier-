@@ -1,25 +1,27 @@
-# Title
+# Chatbot
 
-Simple (or clever and funny?) description
+This program is a bot that you can chat with!
 
 ## Table of Contents
 
 - [Background](#background)
 
-- [Install](#install)
+- [Install the program](#install)
 
 - [Usage](#usage)
 
 ## Background
 
-This is why this application exists.
+This program exists simply to have fun talking to a bot.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+You can install this program.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+You interact with this bot by saying anything you want! The bot will sometimes want to play with you by asking to play games. Before you can even use the bot however, the program will ask you to log in (It's not a real log in thing). After you log in, you can use the bot.
 
 ### Any optional sections
+
+*This program was developed by Mark Evola.*
