@@ -1,7 +1,7 @@
 # Chatbot
 
 This program is a bot that you can chat with!
-
+Line
 ## Table of Contents
 
 - [Background](#background)
@@ -25,3 +25,12 @@ You interact with this bot by saying anything you want! The bot will sometimes w
 ### Any optional sections
 
 *This program was developed by Mark Evola.*
+
+## Test Plan
+
+To test the project:
+
+1. Run the test
+2. Check the results
+3. Submit
+4. something
